@@ -10,7 +10,7 @@ This project is an **interactive Power BI dashboard** built to analyze and monit
 
 ## Dataset Summary
 
-- **Source**: Synthetic/Simulated E-commerce Sales Data
+- **Source**: E-commerce Sales Data
 - **Duration**: 3 Years
 - **Records**: Thousands of transaction-level entries
 - **Key Fields**:
