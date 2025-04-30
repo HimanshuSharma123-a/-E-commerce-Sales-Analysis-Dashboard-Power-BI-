@@ -1,6 +1,6 @@
-# 📊 E-commerce Sales Analysis Dashboard (Power BI)
+# E-commerce Sales Analysis Dashboard (Power BI)
 
-![Dashboard Screenshot](./powerbi-ecommerce-dashboard.png)
+![Dashboard Screenshot](https://github.com/HimanshuSharma123-a/-E-commerce-Sales-Analysis-Dashboard-Power-BI-/blob/main/power%20bi%20e-commerce%20sales%20dashboard.png)
 
 ## Project Overview
 
@@ -11,7 +11,7 @@ This project is an **interactive Power BI dashboard** built to analyze and monit
 ## Dataset Summary
 
 - **Source**: Synthetic/Simulated E-commerce Sales Data
-- **Duration**: 3 Years (Sample/Mock Data)
+- **Duration**: 3 Years
 - **Records**: Thousands of transaction-level entries
 - **Key Fields**:
   - Order Date, Ship Date, Customer Name
